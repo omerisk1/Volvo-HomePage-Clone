@@ -1,0 +1,493 @@
+.resim{
+    
+    width: 1902px;
+    height: 1000px;
+    background-image: url(../images/resim2.jpg);
+}
+.resim3{
+    
+    width: 1902px;
+    height: 1000px;
+    background-image: url(../images/xc90.jpg);
+}
+
+
+
+.fixed-top{
+    max-width: px;
+    margin:0 auto;
+}
+
+.baslik{
+    
+    margin:80px;
+    color:#ffffff;
+    
+        
+}
+.btn{
+    
+    margin:750px 1570px;
+}
+
+#services{
+    
+    padding: 150px 0;
+    
+}
+
+.services-top h3{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 45px;
+    font-weight: 700;
+}
+.services-top p{
+    
+    font-family: 'Droid Serif', serif;
+    font-size :16px;
+    font-style: italic;
+    color:#777;
+    margin-bottom: 130px;
+}
+.services-content h4{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    color:#222;
+    margin-top: 24px;
+}
+.services-content p{
+    
+    font-size: 16px;
+    color: #777;
+}
+.yukaributton{
+    
+    border: 1px solid #fff;
+    background: none;
+    padding: 10px 20px;
+    font-size: 18px;
+    font-family: "montserrat";
+    cursor: pointer;
+    margin: 10px;
+    transition: 0.8s;
+}
+.yukaribtn:hover{
+    color: #fff;
+    
+}
+
+.ftr{
+    background-color:#0E0E0E;
+}
+.xc60video{
+    margin-left: 200px;
+}
+
+.resim2{
+    
+    width: 1902px;
+    height: 1000px;
+    background-image: url(../images/homepicture.jpg);
+}
+.duyuru{
+    
+   
+    background:rgba(0,0,0,0.2);
+    font-weight: bold;
+    width: 640px;
+    height: 120px;
+    margin:0 0 0 700px;
+    border-radius: 5px 5px 5px 5px;
+    float: left;
+    margin:70px 100px 0;
+    color:#F8F9FA;
+    padding: 20px;
+    box-sizing: border-box;
+    
+}
+.duyuru h5{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 35px;
+    font-weight: 700;
+    
+}
+.video video{
+    margin: 60px 0 0 0;
+    
+}
+.horizental-line{
+    width: 1070px;
+    height: 2px;
+    background-color: antiquewhite;
+}
+
+.duyuru1{
+    
+   
+    
+    font-weight: bold;
+    width: 640px;
+    height: 10px;
+    
+    border-radius: 5px 5px 5px 5px;
+    float: left;
+    margin:700px 1250px;
+    color:#F8F9FA;
+    padding: 20px;
+    box-sizing: border-box;
+    
+}
+.duyuru h5{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 22px;
+    font-weight: 700;
+   
+    
+}
+
+.container h3{
+   font-family: 'Montserrat', sans-serif;
+    font-size: 45px;
+    font-weight: 700;
+    
+}
+
+.volvoxc90ilkyazi{
+    margin: 70px 0 0 0;
+
+}
+
+.resim4{
+    
+    width: 1902px;
+    height: 1000px;
+    background-image: url(../images/xc90resim2.jpg);
+}
+.yukaributton1{
+    
+    border: 1px solid #fff;
+    background-color:#161618;
+    padding: 20px 50px;
+    font-size: 18px;
+    font-family: "montserrat";
+    cursor: pointer;
+    margin: 10px;
+    transition: 0.8s;
+}
+.yukaribtn1:hover{
+    color: #fff;
+    
+}
+
+
+
+.logoWrapper{
+    position: relative;
+    height: 51px;
+    width: 51px;
+}
+
+.logoWrapper img{
+    position: absolute;
+    height: 100%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+body{
+    overflow-x:hidden; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.xc60resim3{
+    
+    width: 1902px;
+    height: 1100px;
+    background-image: url(../images/homepicture2.jpg);
+}
+.duyuru2{
+    
+   
+    
+    font-weight: bold;
+    width: 640px;
+    height: 10px;
+    
+    border-radius: 5px 5px 5px 5px;
+    float: left;
+    margin:150px 100px;
+    color:#F8F9FA;
+    padding: 20px;
+    box-sizing: border-box;
+   
+    
+}
+.xc60resim4{
+    
+    width: 1902px;
+    height: 1300px;
+    background-image: url(../images/xc60resim2.jpg);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.xc40resim3{
+    
+    width: 1902px;
+    height: 1100px;
+    background-image: url(../images/homepicture3.jpg);
+}
+.duyuru3{
+    
+   
+    
+    font-weight: bold;
+    width: 640px;
+    height: 10px;
+    
+    border-radius: 5px 5px 5px 5px;
+    float: left;
+    margin:580px 1400px;
+    color:#F8F9FA;
+    padding: 20px;
+    box-sizing: border-box;
+   
+    
+}
+.xc40resim4{
+    
+    width: 1902px;
+    height: 1000px;
+    background-image: url(../images/xc40resim2.jpg);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.v90resim3{
+    
+    width: 1902px;
+    height: 1000px;
+    background-image: url(../images/v90.jpg);
+}
+.duyuru4{
+    
+   
+    
+    font-weight: bold;
+    width: 640px;
+    height: 10px;
+    
+    border-radius: 5px 5px 5px 5px;
+    float: left;
+    margin:100px 50px;
+    color:#F8F2E9;
+    padding: 20px;
+    box-sizing: border-box;
+   
+    
+}
+.v90resim4{
+    
+    width: 1902px;
+    height: 1000px;
+    background-image: url(../images/v90resim2.jpg);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.v60resim3{
+    
+    width: 1902px;
+    height: 1000px;
+    background-image: url(../images/homepicture5.jpg);
+}
+.duyuru5{
+    
+   
+    
+    font-weight: bold;
+    width: 640px;
+    height: 10px;
+    
+    border-radius: 5px 5px 5px 5px;
+    float: left;
+    margin:580px 1450px;
+    color:#F8F9FA;
+    padding: 20px;
+    box-sizing: border-box;
+   
+    
+}
+.v60resim4{
+    
+    width: 1902px;
+    height: 1000px;
+    background-image: url(../images/v60resim2.jpg);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.s90resim3{
+    
+    width: 1902px;
+    height: 1100px;
+    background-image: url(../images/homepicture6.jpg);
+}
+.duyuru6{
+    
+   
+    
+    font-weight: bold;
+    width: 640px;
+    height: 10px;
+    
+    border-radius: 5px 5px 5px 5px;
+    float: left;
+    margin:100px 1370px;
+    color:#F8F9FA;
+    padding: 20px;
+    box-sizing: border-box;
+   
+    
+}
+.s90resim4{
+    
+    width: 1902px;
+    height: 1000px;
+    background-image: url(../images/s90resim2.jpg);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.hakkimizdaresim{
+    
+    width: 1902px;
+    height: 1100px;
+    background-image: url(../images/hakkimizda.jpg);
+
+}
+
+.duyuru7{
+    
+   
+    
+    font-weight: bold;
+    width: 640px;
+    height: 10px;
+    
+    border-radius: 5px 5px 5px 5px;
+    float: left;
+    margin:600px 300px;
+    color:#F8F9FA;
+    padding: 4px;
+    box-sizing: border-box;
+   
+    
+}
+
+
+
+.fiyatresim3{
+    
+    width: 1902px;
+    height: 824px;
+    background-image: url(../images/fiyat.png);
+}
+
+
+
+
+
+
+
+
+
+
